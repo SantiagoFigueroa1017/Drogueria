@@ -8,3 +8,14 @@
 body{
     font-family: 'Reboto', sans-serif;
 }
+
+/* ###################### BARRA DE NAVEGACIÓN ###################  */
+.information{
+    display: flex;
+}
+
+.img-header{
+    height: 150px;
+    width: 150px;
+    border-radius: 100px;
+}
