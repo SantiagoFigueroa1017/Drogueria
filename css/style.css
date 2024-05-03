@@ -8,20 +8,3 @@
 body{
     font-family: 'Reboto', sans-serif;
 }
-
-h1{
-    font-size: 50px;
-}
-
-.contenedor{
-    width: 90%;
-    max-width: 1400px;
-    margin: auto;
-    overflow: hidden;
-}
-
-header::before{
-    content: "";
-    display: block;
-    margin-bottom: 80px;
-}
